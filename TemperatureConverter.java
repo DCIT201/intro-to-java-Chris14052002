@@ -56,7 +56,7 @@ public class TemperatureConverter {
             System.out.println("Invalid scale");
         }
     }
-//    
+    
     public static void main(String[] args) {
         convert();
     }
