@@ -17,7 +17,7 @@ public class TemperatureConverter {
         Scanner scaleInput = new Scanner(System.in);
         Scanner valueInput = new Scanner(System.in);
         
-        //Sore the scale and input value
+        //Store the scale and input value
         String tempScale;
         double tempValue;
         
